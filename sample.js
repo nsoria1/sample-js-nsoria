@@ -198,4 +198,5 @@ class VisitorId {
   }
 }
 
-export default VisitorId;
+//export default VisitorId;
+window.VisitorId = VisitorId;
