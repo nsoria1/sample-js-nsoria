@@ -199,4 +199,4 @@ class VisitorId {
 }
 
 //export default VisitorId;
-window.VisitorId = VisitorId;
+//window.VisitorId = VisitorId;
